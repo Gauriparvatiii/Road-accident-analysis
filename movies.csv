@@ -1,0 +1,1200 @@
+Day_of_Week,Road_Type,Junction_Control,Light_Conditions,Weather_Conditions,Road_Surface_Conditions
+Wednesday,Single carriageway,None,Daylight: Street light present,Raining without high winds,Wet/Damp
+Thursday,Dual carriageway,Automatic traffic signal,Darkness: Street lights present and lit,Fine without high winds,Dry
+Friday,Single carriageway,None,Darkness: Street lights present and lit,Fine without high winds,Dry
+Saturday,Single carriageway,None,Daylight: Street light present,Fine without high winds,Dry
+Tuesday,Single carriageway,None,Darkness: Street lighting unknown,Fine without high winds,Wet/Damp
+Wednesday,Single carriageway,None,Daylight: Street light present,Raining without high winds,Wet/Damp
+Friday,Single carriageway,Giveway or uncontrolled,Darkness: Street lights present and lit,Fine without high winds,Dry
+Saturday,Dual carriageway,None,Daylight: Street light present,Fine without high winds,Dry
+Sunday,Single carriageway,Automatic traffic signal,Darkness: Street lights present and lit,Fine without high winds,Dry
+Sunday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Monday,Single carriageway,Automatic traffic signal,Darkness: Street lights present and lit,Fine without high winds,Dry
+Wednesday,Single carriageway,Automatic traffic signal,Darkness: Street lights present and lit,Fine without high winds,Wet/Damp
+Wednesday,One way street,Giveway or uncontrolled,Daylight: Street light present,Raining without high winds,Wet/Damp
+Wednesday,One way street,Giveway or uncontrolled,Darkness: Street lights present and lit,Raining without high winds,Wet/Damp
+Wednesday,Dual carriageway,None,Daylight: Street light present,Fine without high winds,Dry
+Wednesday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Friday,Single carriageway,Giveway or uncontrolled,Darkness: Street lights present and lit,Fine without high winds,Dry
+Saturday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Saturday,Single carriageway,None,Darkness: Street lights present and lit,Fine without high winds,Dry
+Sunday,Single carriageway,Giveway or uncontrolled,Darkness: Street lights present and lit,Fine without high winds,Dry
+Tuesday,Single carriageway,None,Darkness: Street lights present and lit,Fine without high winds,Dry
+Tuesday,Single carriageway,Giveway or uncontrolled,Darkness: Street lights present and lit,Fine without high winds,Dry
+Tuesday,Dual carriageway,Automatic traffic signal,Darkness: Street lights present and lit,Fine without high winds,Frost/Ice
+Wednesday,Single carriageway,Giveway or uncontrolled,Darkness: Street lights present and lit,Fine without high winds,Dry
+Sunday,Dual carriageway,Automatic traffic signal,Daylight: Street light present,Fine without high winds,Wet/Damp
+Thursday,Single carriageway,Giveway or uncontrolled,Darkness: Street lights present and lit,Raining without high winds,Wet/Damp
+Monday,Single carriageway,None,Darkness: Street lights present and lit,Fine without high winds,Dry
+Sunday,Single carriageway,Automatic traffic signal,Daylight: Street light present,Raining without high winds,Wet/Damp
+Wednesday,Dual carriageway,Automatic traffic signal,Darkness: Street lights present and lit,Raining without high winds,Wet/Damp
+Thursday,Single carriageway,Giveway or uncontrolled,Darkness: Street lights present and lit,Fine without high winds,Dry
+Wednesday,One way street,Giveway or uncontrolled,Darkness: Street lights present and lit,Raining without high winds,Wet/Damp
+Friday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Unknown,Dry
+Sunday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Wet/Damp
+Friday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Raining without high winds,Wet/Damp
+Wednesday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Friday,Single carriageway,Giveway or uncontrolled,Darkness: Street lights present and lit,Fine without high winds,Dry
+Friday,Single carriageway,None,Darkness: Street lights present and lit,Fine without high winds,Dry
+Monday,Single carriageway,None,Daylight: Street light present,Fine without high winds,Dry
+Sunday,Dual carriageway,Automatic traffic signal,Darkness: Street lights present and lit,Fine without high winds,Dry
+Friday,Single carriageway,None,Daylight: Street light present,Fine without high winds,Dry
+Saturday,Single carriageway,Automatic traffic signal,Darkness: Street lights present and lit,Fine without high winds,Dry
+Tuesday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Sunday,Single carriageway,None,Daylight: Street light present,Fine without high winds,Dry
+Wednesday,Single carriageway,Giveway or uncontrolled,Darkness: Street lights present and lit,Fine without high winds,Dry
+Thursday,Single carriageway,None,Daylight: Street light present,Fine without high winds,Dry
+Tuesday,Single carriageway,None,Daylight: Street light present,Fine without high winds,Dry
+Friday,Single carriageway,Giveway or uncontrolled,Darkness: Street lights present and lit,Raining without high winds,Wet/Damp
+Sunday,Single carriageway,None,Daylight: Street light present,Fine without high winds,Wet/Damp
+Monday,Single carriageway,Giveway or uncontrolled,Darkness: Street lights present and lit,Fine without high winds,Dry
+Wednesday,Single carriageway,Giveway or uncontrolled,Darkness: Street lights present and lit,Raining without high winds,Wet/Damp
+Friday,Single carriageway,Giveway or uncontrolled,Darkness: Street lights present and lit,Raining without high winds,Wet/Damp
+Saturday,Single carriageway,None,Daylight: Street light present,Fine without high winds,Dry
+Wednesday,Single carriageway,None,Darkness: Street lights present and lit,Fine without high winds,Dry
+Thursday,Single carriageway,Automatic traffic signal,Daylight: Street light present,Fine without high winds,Dry
+Saturday,Single carriageway,Automatic traffic signal,Darkness: Street lights present and lit,Raining without high winds,Wet/Damp
+Wednesday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Friday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Raining without high winds,Wet/Damp
+Thursday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Tuesday,Roundabout,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Monday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Raining without high winds,Wet/Damp
+Wednesday,Dual carriageway,None,Daylight: Street light present,Fine without high winds,Wet/Damp
+Tuesday,Single carriageway,Giveway or uncontrolled,Darkness: Street lights present and lit,Fine without high winds,Dry
+Monday,One way street,None,Daylight: Street light present,Fine without high winds,Dry
+Monday,Single carriageway,None,Daylight: Street light present,Fine without high winds,Dry
+Sunday,Single carriageway,None,Darkness: Street lights present and lit,Fine without high winds,Dry
+Tuesday,Single carriageway,Giveway or uncontrolled,Darkness: Street lights present and lit,Fine without high winds,Wet/Damp
+Friday,Single carriageway,Automatic traffic signal,Daylight: Street light present,Fine without high winds,Wet/Damp
+Wednesday,Single carriageway,Giveway or uncontrolled,Darkness: Street lights present and lit,Raining without high winds,Wet/Damp
+Thursday,Single carriageway,None,Darkness: Street lights present and lit,Fine without high winds,Dry
+Sunday,Single carriageway,Giveway or uncontrolled,Darkness: Street lights present and lit,Raining without high winds,Wet/Damp
+Friday,Dual carriageway,Automatic traffic signal,Daylight: Street light present,Snowing without high winds,Wet/Damp
+Saturday,Single carriageway,Giveway or uncontrolled,Darkness: Street lights present and lit,Raining without high winds,Wet/Damp
+Thursday,One way street,Giveway or uncontrolled,Darkness: Street lights present and lit,Fine without high winds,Dry
+Sunday,One way street,Giveway or uncontrolled,Darkness: Street lights present and lit,Other,Wet/Damp
+Thursday,Single carriageway,None,Daylight: Street light present,Snowing without high winds,Snow
+Saturday,Single carriageway,Automatic traffic signal,Daylight: Street light present,Fine without high winds,Wet/Damp
+Saturday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Snowing without high winds,Wet/Damp
+Saturday,Dual carriageway,Giveway or uncontrolled,Darkness: Street lights present and lit,Snowing without high winds,Wet/Damp
+Saturday,Single carriageway,Automatic traffic signal,Daylight: Street light present,Raining without high winds,Wet/Damp
+Wednesday,Single carriageway,Automatic traffic signal,Darkness: Street lights present and lit,Fine without high winds,Wet/Damp
+Tuesday,Single carriageway,Giveway or uncontrolled,Darkness: Street lights present and lit,Snowing without high winds,Wet/Damp
+Wednesday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Raining without high winds,Wet/Damp
+Tuesday,Single carriageway,Automatic traffic signal,Darkness: Street lights present and lit,Fine without high winds,Dry
+Thursday,Single carriageway,Giveway or uncontrolled,Darkness: Street lights present and lit,Raining without high winds,Wet/Damp
+Friday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Wednesday,Single carriageway,None,Darkness: Street lights present and lit,Raining without high winds,Wet/Damp
+Wednesday,Single carriageway,Giveway or uncontrolled,Darkness: Street lights present and lit,Raining without high winds,Wet/Damp
+Sunday,Dual carriageway,Automatic traffic signal,Darkness: Street lights present and lit,Fine without high winds,Dry
+Wednesday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Wednesday,Single carriageway,Automatic traffic signal,Darkness: Street lights present and lit,Fine without high winds,Dry
+Friday,Roundabout,Giveway or uncontrolled,Darkness: Street lights present and lit,Fine without high winds,Wet/Damp
+Sunday,Single carriageway,Giveway or uncontrolled,Darkness: Street lights present and lit,Raining without high winds,Wet/Damp
+Sunday,Dual carriageway,None,Darkness: Street lights present and lit,Fine without high winds,Dry
+Wednesday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Monday,Single carriageway,Automatic traffic signal,Darkness: Street lights present and lit,Fine without high winds,Dry
+Wednesday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Wednesday,Single carriageway,Automatic traffic signal,Daylight: Street light present,Fine without high winds,Dry
+Thursday,Single carriageway,Automatic traffic signal,Daylight: Street light present,Fine without high winds,Dry
+Thursday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Tuesday,Single carriageway,None,Daylight: Street light present,Fine without high winds,Wet/Damp
+Friday,Single carriageway,None,Daylight: Street light present,Fine without high winds,Dry
+Monday,Single carriageway,Giveway or uncontrolled,Darkness: Street lights present and lit,Fine without high winds,Dry
+Wednesday,Single carriageway,None,Daylight: Street light present,Fine without high winds,Dry
+Tuesday,Single carriageway,Automatic traffic signal,Darkness: Street lights present and lit,Fine without high winds,Dry
+Wednesday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Wednesday,Dual carriageway,Automatic traffic signal,Daylight: Street light present,Fine without high winds,Dry
+Thursday,One way street,Automatic traffic signal,Daylight: Street light present,Fine without high winds,Dry
+Saturday,Dual carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Thursday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Friday,Single carriageway,None,Daylight: Street light present,Fine without high winds,Dry
+Friday,Dual carriageway,Giveway or uncontrolled,Darkness: Street lights present and lit,Fine without high winds,Dry
+Friday,Single carriageway,Automatic traffic signal,Darkness: Street lights present and lit,Fine without high winds,Dry
+Monday,Single carriageway,Giveway or uncontrolled,Darkness: Street lights present and lit,Fine without high winds,Dry
+Thursday,Single carriageway,None,Darkness: Street lights present and lit,Fine without high winds,Dry
+Friday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Monday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Tuesday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Saturday,One way street,None,Darkness: Street lights present and lit,Fine without high winds,Dry
+Monday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Thursday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Friday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Thursday,Single carriageway,Giveway or uncontrolled,Darkness: Street lights present and lit,Fine without high winds,Dry
+Friday,Single carriageway,Automatic traffic signal,Darkness: Street lights present and lit,Fine without high winds,Dry
+Friday,One way street,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Friday,Single carriageway,Giveway or uncontrolled,Darkness: Street lights present and lit,Fine without high winds,Dry
+Tuesday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Saturday,One way street,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Friday,Dual carriageway,None,Daylight: Street light present,Raining without high winds,Wet/Damp
+Friday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Thursday,Dual carriageway,Automatic traffic signal,Daylight: Street light present,Fine without high winds,Dry
+Thursday,Single carriageway,Automatic traffic signal,Darkness: Street lights present and lit,Fine without high winds,Dry
+Friday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Tuesday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Sunday,One way street,Automatic traffic signal,Darkness: Street lights present and lit,Fine without high winds,Dry
+Sunday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Friday,One way street,Automatic traffic signal,Daylight: Street light present,Raining without high winds,Wet/Damp
+Sunday,Dual carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Friday,Single carriageway,Automatic traffic signal,Daylight: Street light present,Fine without high winds,Dry
+Friday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Friday,Single carriageway,Automatic traffic signal,Daylight: Street light present,Fine without high winds,Dry
+Friday,Dual carriageway,Automatic traffic signal,Darkness: Street lights present and lit,Fine without high winds,Wet/Damp
+Thursday,Single carriageway,Giveway or uncontrolled,Darkness: Street lights present and lit,Fine without high winds,Dry
+Wednesday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Saturday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Sunday,Single carriageway,None,Daylight: Street light present,Fine without high winds,Dry
+Thursday,Dual carriageway,Automatic traffic signal,Daylight: Street light present,Raining without high winds,Wet/Damp
+Saturday,One way street,Automatic traffic signal,Darkness: Street lights present and lit,Fine without high winds,Dry
+Thursday,Single carriageway,None,Daylight: Street light present,Fine without high winds,Dry
+Tuesday,Dual carriageway,Automatic traffic signal,Daylight: Street light present,Fine without high winds,Dry
+Saturday,Dual carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Saturday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Raining without high winds,Wet/Damp
+Saturday,Dual carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Monday,Single carriageway,Giveway or uncontrolled,Darkness: Street lights present and lit,Fine without high winds,Dry
+Monday,Roundabout,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Wednesday,One way street,Giveway or uncontrolled,Daylight: Street light present,Raining without high winds,Wet/Damp
+Monday,Single carriageway,None,Daylight: Street light present,Fine without high winds,Dry
+Wednesday,Single carriageway,None,Daylight: Street light present,Fine without high winds,Dry
+Thursday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Raining without high winds,Wet/Damp
+Friday,Single carriageway,Giveway or uncontrolled,Darkness: Street lights present and lit,Fine without high winds,Dry
+Thursday,Dual carriageway,Automatic traffic signal,Darkness: Street lights present and lit,Fine without high winds,Wet/Damp
+Sunday,Single carriageway,None,Daylight: Street light present,Fine without high winds,Dry
+Sunday,Dual carriageway,None,Daylight: Street light present,Fine without high winds,Dry
+Saturday,Single carriageway,Automatic traffic signal,Daylight: Street light present,Fine without high winds,Wet/Damp
+Friday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Friday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Tuesday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Thursday,Single carriageway,Automatic traffic signal,Daylight: Street light present,Fine without high winds,Dry
+Wednesday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Monday,Single carriageway,Automatic traffic signal,Daylight: Street light present,Fine without high winds,Dry
+Thursday,One way street,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Sunday,Single carriageway,Automatic traffic signal,Darkness: Street lights present and lit,Fine without high winds,Dry
+Monday,Single carriageway,None,Daylight: Street light present,Fine without high winds,Dry
+Sunday,Single carriageway,Automatic traffic signal,Darkness: Street lights present and lit,Fine without high winds,Dry
+Sunday,Single carriageway,None,Daylight: Street light present,Fine without high winds,Dry
+Sunday,Single carriageway,None,Daylight: Street light present,Fine without high winds,Dry
+Thursday,Dual carriageway,None,Daylight: Street light present,Fine without high winds,Dry
+Monday,Single carriageway,Giveway or uncontrolled,Darkness: Street lights present and lit,Fine without high winds,Dry
+Sunday,Single carriageway,Giveway or uncontrolled,Darkness: Street lights present and lit,Fine without high winds,Dry
+Saturday,One way street,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Thursday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Tuesday,Single carriageway,None,Daylight: Street light present,Raining without high winds,Wet/Damp
+Monday,Dual carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Tuesday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Sunday,Dual carriageway,Giveway or uncontrolled,Darkness: Street lights present and lit,Fine without high winds,Dry
+Sunday,Dual carriageway,None,Daylight: Street light present,Fine without high winds,Dry
+Sunday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Friday,Dual carriageway,None,Daylight: Street light present,Fine without high winds,Dry
+Tuesday,Dual carriageway,Automatic traffic signal,Daylight: Street light present,Fine without high winds,Dry
+Tuesday,Dual carriageway,None,Daylight: Street light present,Fine without high winds,Dry
+Saturday,Dual carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Tuesday,Dual carriageway,Automatic traffic signal,Daylight: Street light present,Fine without high winds,Dry
+Thursday,Single carriageway,Automatic traffic signal,Darkness: Street lights present and lit,Fine without high winds,Dry
+Saturday,Single carriageway,Automatic traffic signal,Daylight: Street light present,Fine without high winds,Dry
+Thursday,Single carriageway,None,Daylight: Street light present,Fine without high winds,Dry
+Friday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Friday,Single carriageway,Automatic traffic signal,Daylight: Street light present,Fine without high winds,Dry
+Thursday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Friday,Single carriageway,None,Darkness: Street lights present and lit,Fine without high winds,Dry
+Saturday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Wednesday,Dual carriageway,Automatic traffic signal,Daylight: Street light present,Fine without high winds,Dry
+Saturday,Dual carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Wednesday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Sunday,Single carriageway,Automatic traffic signal,Daylight: Street light present,Fine without high winds,Dry
+Friday,Single carriageway,None,Darkness: Street lights present and lit,Fine without high winds,Dry
+Monday,Single carriageway,Automatic traffic signal,Daylight: Street light present,Fine without high winds,Dry
+Friday,One way street,None,Daylight: Street light present,Fine without high winds,Dry
+Sunday,Dual carriageway,None,Daylight: Street light present,Fine without high winds,Dry
+Friday,Dual carriageway,Automatic traffic signal,Daylight: Street light present,Fine without high winds,Dry
+Monday,Single carriageway,None,Daylight: Street light present,Fine without high winds,Dry
+Sunday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Sunday,Single carriageway,None,Daylight: Street light present,Fine without high winds,Dry
+Friday,Single carriageway,Giveway or uncontrolled,Darkness: Street lights present and lit,Fine without high winds,Dry
+Saturday,Dual carriageway,None,Daylight: Street light present,Fine without high winds,Dry
+Monday,Dual carriageway,Giveway or uncontrolled,Darkness: Street lights present and lit,Fine without high winds,Dry
+Tuesday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Monday,Dual carriageway,Automatic traffic signal,Daylight: Street light present,Fine without high winds,Dry
+Friday,One way street,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Tuesday,Single carriageway,None,Daylight: Street light present,Fine without high winds,Dry
+Monday,Single carriageway,None,Darkness: Street lights present and lit,Fine without high winds,Dry
+Sunday,Single carriageway,Automatic traffic signal,Darkness: Street lights present and lit,Fine without high winds,Dry
+Friday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Raining without high winds,Wet/Damp
+Thursday,One way street,Automatic traffic signal,Daylight: Street light present,Fine without high winds,Dry
+Monday,Single carriageway,None,Darkness: Street lights present and lit,Fine without high winds,Dry
+Saturday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Sunday,Single carriageway,None,Darkness: Street lights present and lit,Fine without high winds,Dry
+Thursday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Tuesday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Friday,Dual carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Thursday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Raining without high winds,Wet/Damp
+Friday,Single carriageway,Automatic traffic signal,Daylight: Street light present,Raining without high winds,Wet/Damp
+Sunday,Single carriageway,Automatic traffic signal,Darkness: Street lights present and lit,Fine without high winds,Dry
+Thursday,Dual carriageway,None,Daylight: Street light present,Fine without high winds,Dry
+Friday,Single carriageway,Giveway or uncontrolled,Darkness: Street lights present and lit,Fine without high winds,Dry
+Wednesday,Single carriageway,Automatic traffic signal,Daylight: Street light present,Raining without high winds,Wet/Damp
+Sunday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Raining without high winds,Wet/Damp
+Friday,One way street,None,Daylight: Street light present,Fine without high winds,Dry
+Friday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Friday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Sunday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Wednesday,One way street,Automatic traffic signal,Daylight: Street light present,Fine without high winds,Dry
+Saturday,Single carriageway,None,Daylight: Street light present,Fine without high winds,Dry
+Tuesday,Single carriageway,Automatic traffic signal,Daylight: Street light present,Fine without high winds,Dry
+Friday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Wednesday,Single carriageway,Automatic traffic signal,Daylight: Street light present,Fine without high winds,Dry
+Wednesday,Single carriageway,None,Daylight: Street light present,Fine without high winds,Dry
+Wednesday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Monday,Single carriageway,None,Daylight: Street light present,Fine without high winds,Dry
+Saturday,Single carriageway,Automatic traffic signal,Daylight: Street light present,Fine without high winds,Dry
+Friday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Thursday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Raining without high winds,Wet/Damp
+Friday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Sunday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Thursday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Wednesday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Friday,Single carriageway,Automatic traffic signal,Daylight: Street light present,Fine without high winds,Dry
+Saturday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Thursday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Friday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Tuesday,Dual carriageway,None,Daylight: Street light present,Fine without high winds,Dry
+Tuesday,Single carriageway,Automatic traffic signal,Daylight: Street light present,Fine without high winds,Dry
+Friday,Dual carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Wednesday,Single carriageway,Giveway or uncontrolled,Darkness: Street lights present and lit,Fine without high winds,Dry
+Thursday,Single carriageway,None,Daylight: Street light present,Fine without high winds,Dry
+Friday,Dual carriageway,Automatic traffic signal,Daylight: Street light present,Fine without high winds,Dry
+Thursday,Dual carriageway,None,Darkness: Street lights present and lit,Fine without high winds,Dry
+Thursday,One way street,None,Daylight: Street light present,Fine without high winds,Dry
+Thursday,Single carriageway,Automatic traffic signal,Daylight: Street light present,Fine without high winds,Dry
+Saturday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Thursday,Single carriageway,None,Daylight: Street light present,Fine without high winds,Dry
+Sunday,Single carriageway,None,Daylight: Street light present,Fine without high winds,Dry
+Friday,Single carriageway,None,Darkness: Street lights present and lit,Fine without high winds,Dry
+Saturday,Single carriageway,None,Daylight: Street light present,Raining without high winds,Wet/Damp
+Friday,Single carriageway,None,Daylight: Street light present,Fine without high winds,Dry
+Tuesday,Single carriageway,None,Daylight: Street light present,Fine without high winds,Dry
+Friday,Single carriageway,Giveway or uncontrolled,Darkness: Street lights present and lit,Fine without high winds,Dry
+Thursday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Saturday,Single carriageway,None,Daylight: Street light present,Fine without high winds,Dry
+Tuesday,Single carriageway,Giveway or uncontrolled,Darkness: Street lights present and lit,Fine without high winds,Dry
+Saturday,Single carriageway,Automatic traffic signal,Daylight: Street light present,Fine without high winds,Dry
+Thursday,Single carriageway,Automatic traffic signal,Darkness: Street lights present and lit,Fine without high winds,Dry
+Sunday,Dual carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Tuesday,Dual carriageway,None,Darkness: Street lights present and lit,Fine without high winds,Dry
+Thursday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Saturday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Raining without high winds,Wet/Damp
+Wednesday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Friday,Roundabout,Giveway or uncontrolled,Daylight: Street light present,Raining without high winds,Wet/Damp
+Thursday,Dual carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Thursday,Single carriageway,Automatic traffic signal,Daylight: Street light present,Raining without high winds,Wet/Damp
+Thursday,Single carriageway,Automatic traffic signal,Daylight: Street light present,Fine without high winds,Dry
+Tuesday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Thursday,Dual carriageway,Automatic traffic signal,Daylight: Street light present,Raining without high winds,Wet/Damp
+Tuesday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Sunday,Roundabout,Automatic traffic signal,Daylight: Street light present,Fine without high winds,Dry
+Tuesday,Single carriageway,Automatic traffic signal,Daylight: Street light present,Fine without high winds,Dry
+Tuesday,Single carriageway,Automatic traffic signal,Daylight: Street light present,Fine without high winds,Dry
+Friday,One way street,Automatic traffic signal,Darkness: Street lights present and lit,Fine without high winds,Dry
+Friday,One way street,Giveway or uncontrolled,Daylight: Street light present,Raining without high winds,Wet/Damp
+Friday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Wednesday,One way street,None,Daylight: Street light present,Fine without high winds,Dry
+Wednesday,Single carriageway,None,Daylight: Street light present,Fine without high winds,Dry
+Friday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Raining without high winds,Wet/Damp
+Tuesday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Raining without high winds,Wet/Damp
+Tuesday,One way street,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Tuesday,Dual carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Saturday,Single carriageway,None,Darkness: Street lights present and lit,Fine without high winds,Dry
+Saturday,Dual carriageway,None,Daylight: Street light present,Fine without high winds,Dry
+Friday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Raining without high winds,Wet/Damp
+Saturday,Single carriageway,None,Daylight: Street light present,Fine without high winds,Dry
+Wednesday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Friday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Friday,Dual carriageway,Automatic traffic signal,Darkness: Street lights present and lit,Fine without high winds,Dry
+Wednesday,Dual carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Thursday,One way street,Giveway or uncontrolled,Daylight: Street light present,Raining without high winds,Wet/Damp
+Thursday,Single carriageway,None,Daylight: Street light present,Fine without high winds,Dry
+Thursday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Friday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Tuesday,Single carriageway,None,Daylight: Street light present,Fine without high winds,Dry
+Tuesday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Friday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Monday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Monday,Single carriageway,Automatic traffic signal,Daylight: Street light present,Fine without high winds,Dry
+Friday,Single carriageway,None,Daylight: Street light present,Raining without high winds,Wet/Damp
+Tuesday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Friday,One way street,Giveway or uncontrolled,Darkness: Street lights present and lit,Fine without high winds,Dry
+Tuesday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Thursday,Single carriageway,Automatic traffic signal,Darkness: Street lights present and lit,Fine without high winds,Wet/Damp
+Wednesday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Raining without high winds,Wet/Damp
+Friday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Wet/Damp
+Friday,Single carriageway,None,Darkness: Street lights present and lit,Fine without high winds,Dry
+Friday,Single carriageway,Automatic traffic signal,Daylight: Street light present,Fine without high winds,Dry
+Saturday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Raining without high winds,Wet/Damp
+Friday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Saturday,Dual carriageway,Automatic traffic signal,Daylight: Street light present,Fine without high winds,Dry
+Sunday,One way street,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Tuesday,Single carriageway,Automatic traffic signal,Darkness: Street lights present and lit,Fine without high winds,Dry
+Sunday,Single carriageway,None,Daylight: Street light present,Fine without high winds,Dry
+Monday,One way street,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Thursday,Single carriageway,None,Daylight: Street light present,Fine without high winds,Dry
+Wednesday,Single carriageway,Automatic traffic signal,Daylight: Street light present,Fine without high winds,Dry
+Sunday,One way street,Giveway or uncontrolled,Darkness: Street lights present and lit,Fine without high winds,Dry
+Sunday,Dual carriageway,None,Daylight: Street light present,Fine without high winds,Dry
+Friday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Friday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Saturday,Single carriageway,Automatic traffic signal,Daylight: Street light present,Fine without high winds,Dry
+Sunday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Friday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Wednesday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Sunday,Single carriageway,None,Daylight: Street light present,Fine without high winds,Dry
+Saturday,Single carriageway,None,Daylight: Street light present,Fine without high winds,Dry
+Friday,Single carriageway,None,Darkness: Street lights present and lit,Raining without high winds,Wet/Damp
+Saturday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Thursday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Saturday,Dual carriageway,Automatic traffic signal,Daylight: Street light present,Fine without high winds,Dry
+Friday,Single carriageway,None,Darkness: Street lights present and lit,Fine without high winds,Dry
+Saturday,Single carriageway,Automatic traffic signal,Daylight: Street light present,Fine without high winds,Dry
+Thursday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Friday,Dual carriageway,Automatic traffic signal,Daylight: Street light present,Fine without high winds,Dry
+Tuesday,Dual carriageway,None,Daylight: Street light present,Fine without high winds,Dry
+Friday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Raining without high winds,Wet/Damp
+Thursday,Single carriageway,Automatic traffic signal,Daylight: Street light present,Fine without high winds,Dry
+Thursday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Sunday,Single carriageway,None,Daylight: Street light present,Fine without high winds,Dry
+Friday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Wednesday,Single carriageway,None,Daylight: Street light present,Fine without high winds,Dry
+Friday,Single carriageway,None,Daylight: Street light present,Fine without high winds,Dry
+Wednesday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Wet/Damp
+Friday,Roundabout,Automatic traffic signal,Daylight: Street light present,Fine without high winds,Dry
+Wednesday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine with high winds,Dry
+Wednesday,Single carriageway,Automatic traffic signal,Daylight: Street light present,Fine without high winds,Dry
+Thursday,Dual carriageway,Giveway or uncontrolled,Darkness: Street lights present and lit,Raining without high winds,Wet/Damp
+Thursday,Single carriageway,Giveway or uncontrolled,Darkness: Street lights present and lit,Fine without high winds,Dry
+Saturday,Single carriageway,None,Daylight: Street light present,Fine without high winds,Dry
+Sunday,Single carriageway,Automatic traffic signal,Daylight: Street light present,Fine without high winds,Dry
+Tuesday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Monday,One way street,None,Daylight: Street light present,Fine without high winds,Dry
+Monday,Single carriageway,Automatic traffic signal,Daylight: Street light present,Fine without high winds,Dry
+Tuesday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Monday,Single carriageway,Giveway or uncontrolled,Darkness: Street lights present and lit,Fine without high winds,Dry
+Friday,Dual carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Saturday,Dual carriageway,Automatic traffic signal,Darkness: Street lights present and lit,Fine without high winds,Dry
+Tuesday,Single carriageway,Automatic traffic signal,Daylight: Street light present,Raining without high winds,Wet/Damp
+Thursday,Single carriageway,None,Daylight: Street light present,Fine without high winds,Dry
+Wednesday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Thursday,Single carriageway,Automatic traffic signal,Daylight: Street light present,Fine without high winds,Dry
+Thursday,One way street,Automatic traffic signal,Daylight: Street light present,Fine without high winds,Dry
+Friday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Friday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Sunday,Single carriageway,Automatic traffic signal,Daylight: Street light present,Fine without high winds,Dry
+Thursday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Sunday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Thursday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Raining without high winds,Wet/Damp
+Thursday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Wednesday,Single carriageway,Automatic traffic signal,Daylight: Street light present,Fine without high winds,Dry
+Thursday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Wet/Damp
+Friday,Roundabout,Automatic traffic signal,Daylight: Street light present,Fine without high winds,Wet/Damp
+Wednesday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Thursday,Single carriageway,None,Daylight: Street light present,Fine without high winds,Dry
+Friday,Single carriageway,Giveway or uncontrolled,Darkness: Street lights present and lit,Fine without high winds,Dry
+Saturday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Friday,Single carriageway,Giveway or uncontrolled,Darkness: Street lights present and lit,Fine without high winds,Dry
+Thursday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Sunday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Wednesday,Single carriageway,None,Daylight: Street light present,Fine without high winds,Dry
+Friday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Sunday,Single carriageway,Automatic traffic signal,Daylight: Street light present,Fine without high winds,Dry
+Wednesday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Thursday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Sunday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Thursday,Single carriageway,Automatic traffic signal,Darkness: Street lights present and lit,Fine without high winds,Dry
+Saturday,Single carriageway,Giveway or uncontrolled,Darkness: Street lights present and lit,Fine without high winds,Dry
+Monday,One way street,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Tuesday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Saturday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Thursday,Dual carriageway,Automatic traffic signal,Daylight: Street light present,Raining without high winds,Wet/Damp
+Friday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Thursday,Single carriageway,Giveway or uncontrolled,Darkness: Street lights present and lit,Fine without high winds,Wet/Damp
+Friday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Thursday,Single carriageway,Automatic traffic signal,Darkness: Street lights present and lit,Fine without high winds,Dry
+Saturday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Saturday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Wednesday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Friday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Monday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Wednesday,Single carriageway,Automatic traffic signal,Daylight: Street light present,Fine without high winds,Dry
+Tuesday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Thursday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Sunday,Dual carriageway,Automatic traffic signal,Daylight: Street light present,Fine without high winds,Dry
+Thursday,Single carriageway,None,Daylight: Street light present,Fine without high winds,Dry
+Monday,Dual carriageway,None,Daylight: Street light present,Fine without high winds,Dry
+Monday,Single carriageway,Automatic traffic signal,Darkness: Street lights present and lit,Fine without high winds,Dry
+Tuesday,Single carriageway,Giveway or uncontrolled,Darkness: Street lights present and lit,Raining without high winds,Wet/Damp
+Wednesday,Single carriageway,Automatic traffic signal,Daylight: Street light present,Fine without high winds,Dry
+Tuesday,Dual carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Thursday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Thursday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Wednesday,Dual carriageway,Automatic traffic signal,Daylight: Street light present,Fine without high winds,Dry
+Tuesday,Single carriageway,Giveway or uncontrolled,Darkness: Street lights present and lit,Fine without high winds,Dry
+Tuesday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Raining without high winds,Wet/Damp
+Saturday,Single carriageway,Automatic traffic signal,Daylight: Street light present,Raining without high winds,Wet/Damp
+Thursday,One way street,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Saturday,Single carriageway,None,Darkness: Street lights present and lit,Fine without high winds,Dry
+Tuesday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Friday,Single carriageway,None,Daylight: Street light present,Fine without high winds,Dry
+Friday,Single carriageway,None,Daylight: Street light present,Fine without high winds,Dry
+Saturday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Friday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Sunday,Single carriageway,Automatic traffic signal,Daylight: Street light present,Raining without high winds,Wet/Damp
+Wednesday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Monday,Single carriageway,None,Darkness: Street lights present and lit,Fine without high winds,Dry
+Tuesday,Single carriageway,None,Daylight: Street light present,Raining without high winds,Wet/Damp
+Wednesday,Single carriageway,None,Darkness: Street lights present and lit,Fine without high winds,Dry
+Thursday,Single carriageway,Giveway or uncontrolled,Darkness: Street lighting unknown,Raining without high winds,Wet/Damp
+Tuesday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Saturday,Single carriageway,None,Daylight: Street light present,Raining without high winds,Wet/Damp
+Friday,Single carriageway,None,Daylight: Street light present,Fine without high winds,Dry
+Sunday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Sunday,Dual carriageway,Automatic traffic signal,Darkness: Street lights present and lit,Other,Dry
+Tuesday,Single carriageway,Automatic traffic signal,Daylight: Street light present,Fine without high winds,Dry
+Friday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Sunday,Single carriageway,Automatic traffic signal,Daylight: Street light present,Fine without high winds,Dry
+Saturday,Single carriageway,None,Daylight: Street light present,Fine without high winds,Dry
+Wednesday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Thursday,Single carriageway,Automatic traffic signal,Darkness: Street lights present and lit,Fine without high winds,Dry
+Sunday,Single carriageway,Automatic traffic signal,Daylight: Street light present,Fine without high winds,Dry
+Friday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Thursday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Tuesday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Wednesday,One way street,None,Daylight: Street light present,Fine without high winds,Dry
+Thursday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Saturday,Single carriageway,None,Daylight: Street light present,Fine without high winds,Dry
+Tuesday,Roundabout,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Wednesday,Single carriageway,Giveway or uncontrolled,Darkness: Street lights present and lit,Fine without high winds,Dry
+Monday,Single carriageway,Automatic traffic signal,Daylight: Street light present,Fine without high winds,Dry
+Sunday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Saturday,Single carriageway,Automatic traffic signal,Darkness: Street lights present and lit,Fine without high winds,Dry
+Wednesday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Wednesday,Single carriageway,None,Daylight: Street light present,Fine without high winds,Dry
+Tuesday,Single carriageway,Automatic traffic signal,Daylight: Street light present,Fine without high winds,Dry
+Thursday,Single carriageway,Giveway or uncontrolled,Darkness: Street lights present and lit,Fine without high winds,Dry
+Friday,Single carriageway,Automatic traffic signal,Daylight: Street light present,Fine without high winds,Dry
+Wednesday,Single carriageway,None,Daylight: Street light present,Fine without high winds,Dry
+Tuesday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Saturday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Thursday,One way street,None,Darkness: Street lights present and lit,Fine without high winds,Dry
+Friday,Single carriageway,None,Darkness: Street lights present and lit,Fine without high winds,Dry
+Saturday,Single carriageway,Automatic traffic signal,Darkness: Street lights present and lit,Fine without high winds,Dry
+Saturday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Wednesday,Single carriageway,Giveway or uncontrolled,Darkness: Street lights present and lit,Fine without high winds,Dry
+Sunday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Raining without high winds,Wet/Damp
+Wednesday,Single carriageway,Automatic traffic signal,Daylight: Street light present,Fine without high winds,Dry
+Friday,Single carriageway,None,Daylight: Street light present,Fine without high winds,Dry
+Friday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Raining without high winds,Wet/Damp
+Sunday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Sunday,Dual carriageway,None,Daylight: Street light present,Fine without high winds,Dry
+Monday,Single carriageway,Automatic traffic signal,Daylight: Street light present,Fine without high winds,Wet/Damp
+Friday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Wednesday,Single carriageway,Automatic traffic signal,Darkness: Street lights present and lit,Fine without high winds,Dry
+Wednesday,Single carriageway,Automatic traffic signal,Darkness: Street lights present and lit,Fine without high winds,Dry
+Friday,Single carriageway,None,Daylight: Street light present,Fine without high winds,Dry
+Thursday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Friday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Friday,Dual carriageway,None,Daylight: Street light present,Fine without high winds,Dry
+Wednesday,Single carriageway,Automatic traffic signal,Daylight: Street light present,Fine without high winds,Dry
+Tuesday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Saturday,Single carriageway,None,Daylight: Street light present,Fine without high winds,Dry
+Wednesday,Single carriageway,None,Darkness: Street lights present and lit,Fine without high winds,Dry
+Thursday,Single carriageway,Giveway or uncontrolled,Darkness: Street lights present and lit,Raining without high winds,Wet/Damp
+Saturday,Single carriageway,Giveway or uncontrolled,Darkness: Street lights present and lit,Fine without high winds,Dry
+Saturday,Single carriageway,Automatic traffic signal,Daylight: Street light present,Fine without high winds,Wet/Damp
+Tuesday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Sunday,Dual carriageway,Automatic traffic signal,Daylight: Street light present,Fine without high winds,Dry
+Sunday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Friday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Tuesday,Single carriageway,None,Daylight: Street light present,Fine without high winds,Dry
+Saturday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Wednesday,Dual carriageway,Automatic traffic signal,Daylight: Street light present,Fine without high winds,Dry
+Saturday,Single carriageway,None,Daylight: Street light present,Fine without high winds,Dry
+Monday,Single carriageway,Giveway or uncontrolled,Darkness: Street lights present and lit,Fine without high winds,Dry
+Tuesday,Single carriageway,Giveway or uncontrolled,Darkness: Street lights present and lit,Fine without high winds,Dry
+Wednesday,Dual carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Sunday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Saturday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Monday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Wednesday,Single carriageway,Giveway or uncontrolled,Darkness: Street lights present and lit,Fine without high winds,Dry
+Sunday,Single carriageway,Giveway or uncontrolled,Darkness: Street lights present and lit,Fine without high winds,Dry
+Saturday,Single carriageway,Giveway or uncontrolled,Darkness: Street lights present and lit,Fine without high winds,Dry
+Monday,Single carriageway,Automatic traffic signal,Darkness: Street lighting unknown,Fine without high winds,Dry
+Thursday,Single carriageway,None,Daylight: Street light present,Fine without high winds,Dry
+Sunday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Tuesday,Single carriageway,Automatic traffic signal,Daylight: Street light present,Fine without high winds,Dry
+Friday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Friday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Saturday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Raining without high winds,Wet/Damp
+Friday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Thursday,One way street,Giveway or uncontrolled,Darkness: Street lights present and lit,Fine without high winds,Dry
+Friday,Single carriageway,None,Daylight: Street light present,Fine without high winds,Dry
+Sunday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Wednesday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Tuesday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Tuesday,Single carriageway,None,Daylight: Street light present,Fine without high winds,Dry
+Thursday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Raining without high winds,Wet/Damp
+Wednesday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Thursday,Single carriageway,None,Darkness: Street lights present and lit,Raining without high winds,Wet/Damp
+Thursday,Single carriageway,Giveway or uncontrolled,Darkness: Street lights present and lit,Fine without high winds,Dry
+Sunday,Single carriageway,Automatic traffic signal,Daylight: Street light present,Fine without high winds,Dry
+Sunday,Single carriageway,None,Daylight: Street light present,Fine without high winds,Dry
+Saturday,Dual carriageway,None,Daylight: Street light present,Fine without high winds,Dry
+Tuesday,Dual carriageway,Automatic traffic signal,Daylight: Street light present,Fine without high winds,Dry
+Sunday,Single carriageway,Automatic traffic signal,Darkness: Street lights present and lit,Fine without high winds,Dry
+Tuesday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Wednesday,Single carriageway,Automatic traffic signal,Daylight: Street light present,Fine without high winds,Dry
+Tuesday,Single carriageway,None,Darkness: Street lights present and lit,Fine without high winds,Dry
+Tuesday,Single carriageway,None,Daylight: Street light present,Fine without high winds,Dry
+Thursday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Monday,Single carriageway,Automatic traffic signal,Darkness: Street lights present and lit,Fine without high winds,Dry
+Tuesday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Friday,Single carriageway,Automatic traffic signal,Darkness: Street lights present and lit,Fine with high winds,Wet/Damp
+Thursday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Friday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Tuesday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Thursday,Single carriageway,Giveway or uncontrolled,Darkness: Street lights present and lit,Raining without high winds,Wet/Damp
+Monday,Single carriageway,None,Daylight: Street light present,Fine without high winds,Dry
+Tuesday,Roundabout,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Thursday,Single carriageway,Giveway or uncontrolled,Darkness: Street lights present and lit,Raining without high winds,Wet/Damp
+Saturday,Single carriageway,Giveway or uncontrolled,Darkness: Street lights present and lit,Fine without high winds,Dry
+Sunday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Thursday,Single carriageway,Giveway or uncontrolled,Darkness: Street lights present and lit,Raining without high winds,Wet/Damp
+Friday,Dual carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Monday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Sunday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Saturday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Wet/Damp
+Friday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Saturday,Single carriageway,Automatic traffic signal,Daylight: Street light present,Fine without high winds,Dry
+Wednesday,Single carriageway,Automatic traffic signal,Darkness: Street lights present and lit,Fine without high winds,Dry
+Friday,Single carriageway,None,Daylight: Street light present,Fine without high winds,Dry
+Friday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Thursday,Single carriageway,None,Daylight: Street light present,Fine without high winds,Dry
+Thursday,Single carriageway,Giveway or uncontrolled,Darkness: Street lights present and lit,Raining without high winds,Wet/Damp
+Monday,Single carriageway,Automatic traffic signal,Darkness: Street lights present and lit,Fine without high winds,Dry
+Sunday,Single carriageway,Automatic traffic signal,Daylight: Street light present,Fine without high winds,Dry
+Saturday,Single carriageway,Giveway or uncontrolled,Darkness: Street lights present and lit,Fine without high winds,Dry
+Friday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Saturday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Saturday,Single carriageway,None,Daylight: Street light present,Raining without high winds,Wet/Damp
+Wednesday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Tuesday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Monday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Thursday,Dual carriageway,Automatic traffic signal,Daylight: Street light present,Raining without high winds,Wet/Damp
+Tuesday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Friday,Single carriageway,None,Darkness: Street lights present and lit,Fine without high winds,Dry
+Sunday,Single carriageway,None,Daylight: Street light present,Fine without high winds,Dry
+Sunday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Wednesday,Single carriageway,None,Darkness: Street lights present and lit,Raining without high winds,Wet/Damp
+Saturday,Single carriageway,None,Daylight: Street light present,Fine without high winds,Dry
+Friday,Single carriageway,None,Daylight: Street light present,Fine without high winds,Dry
+Thursday,Single carriageway,Automatic traffic signal,Darkness: Street lights present and lit,Raining without high winds,Wet/Damp
+Thursday,Single carriageway,None,Daylight: Street light present,Fine without high winds,Dry
+Saturday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Raining without high winds,Wet/Damp
+Friday,Dual carriageway,None,Daylight: Street light present,Fine without high winds,Dry
+Saturday,Single carriageway,Giveway or uncontrolled,Darkness: Street lights present and lit,Fine without high winds,Dry
+Monday,Dual carriageway,None,Darkness: Street lights present and lit,Raining without high winds,Wet/Damp
+Saturday,Single carriageway,Automatic traffic signal,Daylight: Street light present,Fine without high winds,Dry
+Thursday,Single carriageway,Automatic traffic signal,Daylight: Street light present,Fine without high winds,Dry
+Thursday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Thursday,Single carriageway,None,Daylight: Street light present,Raining without high winds,Wet/Damp
+Monday,Single carriageway,Giveway or uncontrolled,Darkness: Street lights present and lit,Fine without high winds,Dry
+Tuesday,Single carriageway,Automatic traffic signal,Daylight: Street light present,Fine without high winds,Dry
+Tuesday,Single carriageway,Giveway or uncontrolled,Darkness: Street lights present and lit,Fine without high winds,Dry
+Thursday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Raining without high winds,Wet/Damp
+Sunday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Thursday,Single carriageway,Giveway or uncontrolled,Darkness: Street lights present and lit,Raining without high winds,Wet/Damp
+Thursday,Single carriageway,Automatic traffic signal,Darkness: Street lights present and lit,Fine without high winds,Dry
+Saturday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Thursday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Thursday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Tuesday,Single carriageway,Automatic traffic signal,Darkness: Street lights present and lit,Fine without high winds,Dry
+Tuesday,Single carriageway,Automatic traffic signal,Darkness: Street lights present and lit,Fine without high winds,Dry
+Friday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine with high winds,Wet/Damp
+Saturday,Single carriageway,Giveway or uncontrolled,Darkness: Street lights present and lit,Fine without high winds,Dry
+Sunday,Single carriageway,Automatic traffic signal,Darkness: Street lights present and lit,Fine without high winds,Dry
+Thursday,Single carriageway,Giveway or uncontrolled,Darkness: Street lights present and lit,Raining without high winds,Wet/Damp
+Wednesday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Thursday,Single carriageway,Giveway or uncontrolled,Darkness: Street lights present and lit,Raining without high winds,Wet/Damp
+Tuesday,Single carriageway,Giveway or uncontrolled,Darkness: Street lights present and lit,Fine without high winds,Dry
+Friday,Single carriageway,Automatic traffic signal,Daylight: Street light present,Fine without high winds,Dry
+Saturday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Tuesday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Wednesday,Single carriageway,None,Darkness: Street lights present and lit,Fine without high winds,Dry
+Wednesday,Single carriageway,Giveway or uncontrolled,Darkness: Street lights present and lit,Fine without high winds,Dry
+Friday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Friday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Wednesday,Single carriageway,Automatic traffic signal,Daylight: Street light present,Fine without high winds,Dry
+Sunday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Wednesday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Saturday,One way street,Automatic traffic signal,Daylight: Street light present,Fine without high winds,Dry
+Monday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Raining without high winds,Wet/Damp
+Tuesday,Dual carriageway,Automatic traffic signal,Darkness: Street lights present and lit,Raining without high winds,Wet/Damp
+Thursday,Single carriageway,Automatic traffic signal,Darkness: Street lights present and lit,Fine without high winds,Dry
+Saturday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Thursday,One way street,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Saturday,Single carriageway,Giveway or uncontrolled,Darkness: Street lights present and lit,Raining without high winds,Wet/Damp
+Saturday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Saturday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Monday,Dual carriageway,Giveway or uncontrolled,Darkness: Street lights present and lit,Fine without high winds,Dry
+Friday,Single carriageway,Automatic traffic signal,Daylight: Street light present,Fine without high winds,Dry
+Monday,Single carriageway,None,Darkness: Street lights present and lit,Fine without high winds,Dry
+Friday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Saturday,One way street,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Friday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Thursday,Dual carriageway,None,Darkness: Street lighting unknown,Fine with high winds,Dry
+Wednesday,Single carriageway,None,Daylight: Street light present,Fine without high winds,Dry
+Friday,Single carriageway,Giveway or uncontrolled,Darkness: Street lights present and lit,Raining without high winds,Wet/Damp
+Friday,Single carriageway,None,Daylight: Street light present,Fine without high winds,Dry
+Monday,Single carriageway,None,Darkness: Street lights present and lit,Fine without high winds,Dry
+Saturday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Saturday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Saturday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Saturday,Single carriageway,None,Daylight: Street light present,Fine without high winds,Dry
+Thursday,Single carriageway,Automatic traffic signal,Daylight: Street light present,Fine without high winds,Dry
+Saturday,Single carriageway,None,Daylight: Street light present,Raining without high winds,Wet/Damp
+Thursday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Sunday,Dual carriageway,Giveway or uncontrolled,Darkness: Street lights present and lit,Fine without high winds,Dry
+Monday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Wednesday,Single carriageway,Automatic traffic signal,Daylight: Street light present,Fine without high winds,Dry
+Thursday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Saturday,Single carriageway,Automatic traffic signal,Darkness: Street lights present and lit,Raining without high winds,Wet/Damp
+Saturday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Tuesday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Sunday,Single carriageway,Automatic traffic signal,Daylight: Street light present,Fine without high winds,Dry
+Wednesday,Single carriageway,Giveway or uncontrolled,Darkness: Street lights present and lit,Fine without high winds,Dry
+Tuesday,Single carriageway,Giveway or uncontrolled,Darkness: Street lights present and lit,Fine without high winds,Dry
+Tuesday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Saturday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Saturday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Wet/Damp
+Friday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Thursday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Friday,Single carriageway,Stop Sign,Darkness: Street lights present and lit,Raining without high winds,Wet/Damp
+Wednesday,Single carriageway,Giveway or uncontrolled,Darkness: Street lights present and lit,Fine without high winds,Dry
+Sunday,Single carriageway,Automatic traffic signal,Darkness: Street lights present and lit,Fine without high winds,Wet/Damp
+Thursday,Single carriageway,Giveway or uncontrolled,Darkness: Street lights present and lit,Raining without high winds,Wet/Damp
+Sunday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Wednesday,Single carriageway,Automatic traffic signal,Daylight: Street light present,Fine without high winds,Dry
+Friday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Tuesday,Single carriageway,Automatic traffic signal,Darkness: Street lights present and lit,Fine without high winds,Dry
+Sunday,Single carriageway,Giveway or uncontrolled,Darkness: Street lights present and lit,Fine without high winds,Dry
+Thursday,Dual carriageway,Automatic traffic signal,Darkness: Street lights present and lit,Fine without high winds,Dry
+Sunday,Dual carriageway,None,Daylight: Street light present,Other,Wet/Damp
+Wednesday,Single carriageway,Automatic traffic signal,Daylight: Street light present,Fine without high winds,Dry
+Tuesday,Single carriageway,None,Darkness: Street lights present and lit,Raining without high winds,Wet/Damp
+Sunday,Single carriageway,Automatic traffic signal,Darkness: Street lights present and lit,Fine without high winds,Dry
+Saturday,Single carriageway,Automatic traffic signal,Darkness: Street lights present and lit,Fine without high winds,Dry
+Wednesday,Dual carriageway,Stop Sign,Darkness: Street lights present and lit,Fine without high winds,Dry
+Wednesday,Dual carriageway,Giveway or uncontrolled,Darkness: Street lights present and lit,Fine without high winds,Dry
+Saturday,Single carriageway,Giveway or uncontrolled,Darkness: Street lights present and lit,Fine without high winds,Dry
+Sunday,Dual carriageway,Giveway or uncontrolled,Darkness: Street lights present and lit,Fine without high winds,Dry
+Thursday,Single carriageway,None,Darkness: Street lights present and lit,Fine without high winds,Frost/Ice
+Monday,Single carriageway,Giveway or uncontrolled,Darkness: Street lights present and lit,Fine without high winds,Dry
+Saturday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Friday,Single carriageway,Automatic traffic signal,Darkness: Street lights present and lit,Fine without high winds,Wet/Damp
+Monday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Saturday,Single carriageway,None,Daylight: Street light present,Fine without high winds,Dry
+Sunday,Single carriageway,Automatic traffic signal,Darkness: Street lights present and lit,Fine without high winds,Dry
+Sunday,Single carriageway,Automatic traffic signal,Darkness: Street lights present and lit,Fine without high winds,Dry
+Friday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Saturday,Single carriageway,None,Daylight: Street light present,Fine without high winds,Dry
+Sunday,One way street,None,Daylight: Street light present,Fine without high winds,Wet/Damp
+Saturday,Single carriageway,None,Darkness: Street lights present and lit,Fine without high winds,Dry
+Saturday,Single carriageway,None,Darkness: Street lights present and lit,Fine without high winds,Dry
+Thursday,Single carriageway,Giveway or uncontrolled,Darkness: Street lights present and lit,Fine without high winds,Dry
+Tuesday,Single carriageway,Giveway or uncontrolled,Darkness: Street lights present and lit,Fine without high winds,Dry
+Thursday,Single carriageway,None,Darkness: Street lights present and lit,Fine without high winds,Dry
+Thursday,Single carriageway,None,Daylight: Street light present,Fine without high winds,Wet/Damp
+Saturday,Single carriageway,Giveway or uncontrolled,Darkness: Street lights present and lit,Fine without high winds,Dry
+Thursday,Single carriageway,Automatic traffic signal,Daylight: Street light present,Fine without high winds,Dry
+Thursday,Single carriageway,None,Daylight: Street light present,Fine without high winds,Dry
+Tuesday,Single carriageway,Giveway or uncontrolled,Darkness: Street lights present and lit,Fine without high winds,Dry
+Tuesday,Single carriageway,Automatic traffic signal,Daylight: Street light present,Fine without high winds,Dry
+Sunday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Tuesday,Single carriageway,Automatic traffic signal,Darkness: Street lights present and lit,Fine without high winds,Dry
+Sunday,Single carriageway,None,Darkness: Street lights present and lit,Fine without high winds,Dry
+Friday,Dual carriageway,Automatic traffic signal,Darkness: Street lights present and lit,Fine without high winds,Dry
+Friday,Single carriageway,Giveway or uncontrolled,Darkness: Street lights present and lit,Fine without high winds,Dry
+Saturday,Single carriageway,Automatic traffic signal,Darkness: Street lights present and lit,Raining with high winds,Wet/Damp
+Saturday,Single carriageway,Giveway or uncontrolled,Darkness: Street lights present and lit,Fog or mist,Wet/Damp
+Tuesday,Single carriageway,None,Daylight: Street light present,Fine without high winds,Wet/Damp
+Wednesday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Friday,Single carriageway,Automatic traffic signal,Darkness: Street lights present and lit,Fine without high winds,Dry
+Tuesday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Other,Dry
+Thursday,Single carriageway,Automatic traffic signal,Darkness: Street lights present and lit,Fine without high winds,Dry
+Wednesday,Single carriageway,Giveway or uncontrolled,Darkness: Street lights present and lit,Fine without high winds,Dry
+Thursday,Dual carriageway,None,Darkness: Street lights present and lit,Fine without high winds,Dry
+Friday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Tuesday,One way street,Automatic traffic signal,Daylight: Street light present,Fine without high winds,Dry
+Saturday,Single carriageway,Automatic traffic signal,Daylight: Street light present,Fine without high winds,Dry
+Friday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Sunday,Single carriageway,Giveway or uncontrolled,Darkness: Street lights present and lit,Fine without high winds,Dry
+Wednesday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Snowing without high winds,Wet/Damp
+Wednesday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Tuesday,Single carriageway,Giveway or uncontrolled,Darkness: Street lights present and lit,Fine without high winds,Dry
+Tuesday,Single carriageway,None,Daylight: Street light present,Fine without high winds,Dry
+Friday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Wednesday,Dual carriageway,Giveway or uncontrolled,Darkness: Street lights present and lit,Fine without high winds,Dry
+Sunday,Single carriageway,Automatic traffic signal,Darkness: Street lights present and lit,Fine without high winds,Dry
+Monday,Single carriageway,None,Darkness: Street lights present and lit,Fine without high winds,Dry
+Monday,Single carriageway,Automatic traffic signal,Daylight: Street light present,Fine without high winds,Dry
+Sunday,One way street,Automatic traffic signal,Darkness: Street lights present and lit,Raining without high winds,Wet/Damp
+Wednesday,Dual carriageway,Automatic traffic signal,Daylight: Street light present,Fine without high winds,Dry
+Saturday,Roundabout,Automatic traffic signal,Darkness: Street lights present and lit,Fine without high winds,Dry
+Tuesday,Single carriageway,None,Daylight: Street light present,Fine without high winds,Dry
+Tuesday,One way street,Giveway or uncontrolled,Daylight: Street light present,Raining without high winds,Wet/Damp
+Wednesday,Single carriageway,Automatic traffic signal,Daylight: Street light present,Raining without high winds,Wet/Damp
+Wednesday,Single carriageway,None,Darkness: Street lights present and lit,Raining without high winds,Wet/Damp
+Saturday,Single carriageway,None,Daylight: Street light present,Fine without high winds,Dry
+Sunday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Thursday,Single carriageway,Automatic traffic signal,Daylight: Street light present,Fine without high winds,Dry
+Sunday,Dual carriageway,Giveway or uncontrolled,Darkness: Street lights present and lit,Fine without high winds,Dry
+Monday,Single carriageway,None,Daylight: Street light present,Fine without high winds,Dry
+Saturday,Single carriageway,Giveway or uncontrolled,Darkness: Street lights present and lit,Raining without high winds,Wet/Damp
+Wednesday,Dual carriageway,Automatic traffic signal,Darkness: Street lights present and lit,Fine without high winds,Dry
+Tuesday,Roundabout,Automatic traffic signal,Daylight: Street light present,Fine without high winds,Dry
+Friday,Single carriageway,None,Darkness: Street lights present and lit,Fine without high winds,Dry
+Friday,Dual carriageway,Giveway or uncontrolled,Darkness: Street lights present and lit,Raining without high winds,Wet/Damp
+Friday,Dual carriageway,Giveway or uncontrolled,Daylight: Street light present,Raining without high winds,Wet/Damp
+Friday,Single carriageway,Automatic traffic signal,Darkness: Street lights present and lit,Raining without high winds,Wet/Damp
+Wednesday,Single carriageway,Automatic traffic signal,Daylight: Street light present,Fine without high winds,Dry
+Sunday,One way street,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Saturday,Single carriageway,Automatic traffic signal,Darkness: Street lights present and lit,Fine without high winds,Dry
+Thursday,Single carriageway,Automatic traffic signal,Daylight: Street light present,Fine without high winds,Dry
+Thursday,Dual carriageway,Automatic traffic signal,Daylight: Street light present,Fine without high winds,Dry
+Friday,Single carriageway,Automatic traffic signal,Daylight: Street light present,Fine without high winds,Dry
+Thursday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Saturday,Dual carriageway,None,Daylight: Street light present,Snowing without high winds,Wet/Damp
+Wednesday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Tuesday,One way street,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Thursday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Monday,Dual carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Friday,One way street,None,Daylight: Street light present,Fine without high winds,Wet/Damp
+Sunday,Single carriageway,Automatic traffic signal,Daylight: Street light present,Fine without high winds,Dry
+Sunday,Dual carriageway,Automatic traffic signal,Daylight: Street light present,Fine without high winds,Dry
+Thursday,One way street,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Tuesday,Roundabout,Automatic traffic signal,Darkness: Street lights present and lit,Raining without high winds,Wet/Damp
+Wednesday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Friday,Single carriageway,Automatic traffic signal,Darkness: Street lights present and lit,Fine without high winds,Dry
+Saturday,Single carriageway,None,Darkness: Street lights present but unlit,Fine without high winds,Dry
+Monday,Dual carriageway,Automatic traffic signal,Daylight: Street light present,Fine without high winds,Dry
+Tuesday,Single carriageway,None,Daylight: Street light present,Fine without high winds,Dry
+Wednesday,Single carriageway,Automatic traffic signal,Daylight: Street light present,Fine without high winds,Dry
+Friday,Dual carriageway,Automatic traffic signal,Daylight: Street light present,Fine without high winds,Dry
+Tuesday,Dual carriageway,None,Daylight: Street light present,Fine without high winds,Dry
+Wednesday,Single carriageway,None,Daylight: Street light present,Fine without high winds,Dry
+Thursday,Single carriageway,None,Daylight: Street light present,Fine without high winds,Wet/Damp
+Thursday,Single carriageway,Automatic traffic signal,Daylight: Street light present,Other,Wet/Damp
+Tuesday,Dual carriageway,Automatic traffic signal,Daylight: Street light present,Fine without high winds,Dry
+Tuesday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Thursday,Dual carriageway,None,Daylight: Street light present,Fine without high winds,Dry
+Thursday,One way street,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Saturday,Dual carriageway,Giveway or uncontrolled,Darkness: Street lights present and lit,Fine without high winds,Dry
+Friday,One way street,Giveway or uncontrolled,Daylight: Street light present,Other,Wet/Damp
+Friday,Dual carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Tuesday,One way street,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Wednesday,Dual carriageway,None,Daylight: Street light present,Fine without high winds,Dry
+Saturday,Dual carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Sunday,Single carriageway,None,Daylight: Street light present,Fine without high winds,Dry
+Wednesday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Wet/Damp
+Friday,Single carriageway,None,Daylight: Street light present,Fine without high winds,Wet/Damp
+Thursday,Dual carriageway,None,Daylight: Street light present,Fine without high winds,Dry
+Sunday,One way street,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Friday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Saturday,Single carriageway,None,Daylight: Street light present,Fine without high winds,Dry
+Saturday,Single carriageway,Automatic traffic signal,Daylight: Street light present,Fine without high winds,Dry
+Tuesday,One way street,Automatic traffic signal,Daylight: Street light present,Fine without high winds,Wet/Damp
+Friday,Dual carriageway,Automatic traffic signal,Daylight: Street light present,Fine without high winds,Wet/Damp
+Saturday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Saturday,Single carriageway,Automatic traffic signal,Daylight: Street light present,Fine without high winds,Dry
+Monday,Dual carriageway,Automatic traffic signal,Daylight: Street light present,Fine without high winds,Dry
+Tuesday,Single carriageway,Automatic traffic signal,Daylight: Street light present,Fine without high winds,Wet/Damp
+Friday,One way street,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Sunday,Single carriageway,None,Daylight: Street light present,Fine without high winds,Dry
+Tuesday,Single carriageway,None,Daylight: Street light present,Fine without high winds,Dry
+Tuesday,Single carriageway,None,Daylight: Street light present,Fine without high winds,Dry
+Thursday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Friday,Dual carriageway,Giveway or uncontrolled,Darkness: Street lights present and lit,Fine without high winds,Dry
+Friday,Roundabout,Automatic traffic signal,Daylight: Street light present,Fine without high winds,Dry
+Friday,Single carriageway,Automatic traffic signal,Daylight: Street light present,Fine without high winds,Dry
+Thursday,One way street,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Wednesday,Single carriageway,Automatic traffic signal,Daylight: Street light present,Fine without high winds,Dry
+Friday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Wet/Damp
+Friday,Single carriageway,None,Daylight: Street light present,Fine without high winds,Dry
+Saturday,Dual carriageway,None,Daylight: Street light present,Raining without high winds,Wet/Damp
+Thursday,One way street,Automatic traffic signal,Daylight: Street light present,Fine without high winds,Dry
+Saturday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Wednesday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Thursday,Single carriageway,None,Darkness: Street lights present and lit,Fine without high winds,Dry
+Thursday,Single carriageway,Automatic traffic signal,Daylight: Street light present,Fine without high winds,Dry
+Thursday,Dual carriageway,Automatic traffic signal,Daylight: Street light present,Fine without high winds,Dry
+Friday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Wednesday,One way street,None,Daylight: Street light present,Fine without high winds,Dry
+Wednesday,Dual carriageway,Automatic traffic signal,Darkness: Street lights present and lit,Fine without high winds,Dry
+Thursday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Thursday,One way street,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Thursday,Single carriageway,Automatic traffic signal,Daylight: Street light present,Raining without high winds,Wet/Damp
+Sunday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Tuesday,Single carriageway,Automatic traffic signal,Daylight: Street light present,Fine without high winds,Dry
+Wednesday,Single carriageway,None,Daylight: Street light present,Fine without high winds,Dry
+Thursday,Dual carriageway,Giveway or uncontrolled,Darkness: Street lights present and lit,Fine without high winds,Dry
+Friday,Single carriageway,Automatic traffic signal,Daylight: Street light present,Fine without high winds,Dry
+Sunday,One way street,None,Darkness: Street lights present and lit,Fine without high winds,Dry
+Friday,Single carriageway,None,Daylight: Street light present,Fine without high winds,Dry
+Sunday,Dual carriageway,Automatic traffic signal,Daylight: Street light present,Fine without high winds,Dry
+Sunday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Tuesday,Dual carriageway,Automatic traffic signal,Darkness: Street lights present and lit,Fine without high winds,Dry
+Tuesday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Wednesday,Dual carriageway,Automatic traffic signal,Daylight: Street light present,Fine without high winds,Dry
+Wednesday,Dual carriageway,Automatic traffic signal,Daylight: Street light present,Fine without high winds,Dry
+Thursday,Single carriageway,Automatic traffic signal,Daylight: Street light present,Other,Wet/Damp
+Sunday,Single carriageway,Automatic traffic signal,Daylight: Street light present,Fine without high winds,Dry
+Saturday,Single carriageway,None,Daylight: Street light present,Fine without high winds,Dry
+Tuesday,Single carriageway,Automatic traffic signal,Darkness: Street lights present and lit,Fine without high winds,Dry
+Tuesday,Single carriageway,None,Daylight: Street light present,Fine without high winds,Dry
+Tuesday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Wet/Damp
+Wednesday,Single carriageway,Automatic traffic signal,Daylight: Street light present,Fine without high winds,Dry
+Thursday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Saturday,One way street,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Tuesday,Single carriageway,None,Daylight: Street light present,Fine without high winds,Dry
+Saturday,Single carriageway,Automatic traffic signal,Daylight: Street light present,Fine without high winds,Dry
+Saturday,Single carriageway,None,Darkness: Street lights present and lit,Unknown,Dry
+Tuesday,Single carriageway,Automatic traffic signal,Daylight: Street light present,Fine without high winds,Dry
+Wednesday,Single carriageway,Automatic traffic signal,Daylight: Street light present,Fine without high winds,Dry
+Thursday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Friday,Dual carriageway,Automatic traffic signal,Daylight: Street light present,Raining without high winds,Wet/Damp
+Wednesday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Saturday,Dual carriageway,Automatic traffic signal,Daylight: Street light present,Fine without high winds,Wet/Damp
+Sunday,Single carriageway,None,Daylight: Street light present,Fine without high winds,Dry
+Wednesday,Single carriageway,None,Daylight: Street light present,Fine without high winds,Wet/Damp
+Thursday,Single carriageway,None,Daylight: Street light present,Fine without high winds,Dry
+Friday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Saturday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Saturday,Single carriageway,Automatic traffic signal,Daylight: Street light present,Fine without high winds,Dry
+Monday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Tuesday,Single carriageway,None,Daylight: Street light present,Fine without high winds,Dry
+Wednesday,Dual carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Saturday,Single carriageway,Automatic traffic signal,Daylight: Street light present,Fine without high winds,Dry
+Saturday,Dual carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Wednesday,Single carriageway,Automatic traffic signal,Daylight: Street light present,Fine without high winds,Dry
+Wednesday,Dual carriageway,None,Darkness: Street lights present and lit,Fine without high winds,Dry
+Thursday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Thursday,Single carriageway,Automatic traffic signal,Daylight: Street light present,Fine without high winds,Dry
+Monday,Single carriageway,Automatic traffic signal,Darkness: Street lights present and lit,Fine without high winds,Dry
+Tuesday,Single carriageway,None,Daylight: Street light present,Fine without high winds,Dry
+Wednesday,One way street,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Saturday,Single carriageway,Automatic traffic signal,Daylight: Street light present,Fine without high winds,Dry
+Tuesday,One way street,Automatic traffic signal,Daylight: Street light present,Fine without high winds,Dry
+Tuesday,Single carriageway,Automatic traffic signal,Daylight: Street light present,Fine without high winds,Dry
+Wednesday,Dual carriageway,Automatic traffic signal,Daylight: Street light present,Fine without high winds,Dry
+Thursday,Dual carriageway,None,Daylight: Street light present,Raining without high winds,Wet/Damp
+Thursday,Single carriageway,Automatic traffic signal,Daylight: Street light present,Raining without high winds,Wet/Damp
+Saturday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Friday,Single carriageway,Automatic traffic signal,Daylight: Street light present,Fine without high winds,Dry
+Friday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Saturday,Single carriageway,None,Daylight: Street light present,Fine without high winds,Dry
+Tuesday,Single carriageway,None,Daylight: Street light present,Fine without high winds,Dry
+Tuesday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Wednesday,Dual carriageway,None,Daylight: Street light present,Fine without high winds,Dry
+Thursday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Thursday,Dual carriageway,None,Daylight: Street light present,Fine without high winds,Dry
+Thursday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Thursday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Friday,Single carriageway,Automatic traffic signal,Daylight: Street light present,Fine without high winds,Dry
+Saturday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Other,Wet/Damp
+Thursday,Dual carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Thursday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Thursday,Dual carriageway,Automatic traffic signal,Daylight: Street light present,Fine without high winds,Dry
+Thursday,Single carriageway,Automatic traffic signal,Daylight: Street light present,Fine without high winds,Dry
+Saturday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Sunday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Tuesday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Thursday,Single carriageway,Automatic traffic signal,Daylight: Street light present,Fine without high winds,Dry
+Thursday,Single carriageway,Automatic traffic signal,Darkness: Street lights present and lit,Fine without high winds,Dry
+Saturday,Single carriageway,None,Daylight: Street light present,Fine without high winds,Wet/Damp
+Thursday,Single carriageway,Automatic traffic signal,Daylight: Street light present,Fine without high winds,Dry
+Monday,Single carriageway,Giveway or uncontrolled,Darkness: Street lights present and lit,Fine without high winds,Dry
+Wednesday,Single carriageway,None,Darkness: Street lights present and lit,Fine without high winds,Dry
+Friday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Friday,Single carriageway,None,Daylight: Street light present,Fine without high winds,Dry
+Friday,Single carriageway,None,Darkness: Street lights present and lit,Fine without high winds,Dry
+Friday,Dual carriageway,None,Darkness: Street lights present and lit,Fine without high winds,Dry
+Friday,Single carriageway,None,Darkness: Street lights present and lit,Fine without high winds,Dry
+Saturday,Single carriageway,None,Darkness: Street lights present and lit,Fine without high winds,Dry
+Thursday,Single carriageway,Automatic traffic signal,Daylight: Street light present,Fine without high winds,Dry
+Thursday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Wednesday,One way street,Automatic traffic signal,Daylight: Street light present,Fine without high winds,Dry
+Wednesday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Monday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Wednesday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Thursday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Friday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Saturday,Single carriageway,None,Darkness: Street lights present and lit,Fine without high winds,Dry
+Tuesday,Single carriageway,Automatic traffic signal,Daylight: Street light present,Fine without high winds,Dry
+Tuesday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Raining without high winds,Wet/Damp
+Wednesday,Dual carriageway,None,Daylight: Street light present,Fine without high winds,Dry
+Wednesday,Dual carriageway,None,Daylight: Street light present,Fine without high winds,Dry
+Saturday,Single carriageway,Automatic traffic signal,Daylight: Street light present,Fine without high winds,Dry
+Saturday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Tuesday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Tuesday,Single carriageway,Automatic traffic signal,Daylight: Street light present,Fine without high winds,Dry
+Tuesday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Wednesday,Single carriageway,Automatic traffic signal,Daylight: Street light present,Fine without high winds,Dry
+Thursday,Single carriageway,None,Darkness: Street lights present and lit,Fine without high winds,Dry
+Wednesday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Wednesday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Wednesday,Single carriageway,Automatic traffic signal,Daylight: Street light present,Fine without high winds,Dry
+Thursday,Dual carriageway,Automatic traffic signal,Daylight: Street light present,Fine without high winds,Dry
+Saturday,Dual carriageway,Giveway or uncontrolled,Darkness: Street lights present and lit,Fine without high winds,Dry
+Saturday,Single carriageway,Automatic traffic signal,Darkness: Street lights present and lit,Fine without high winds,Dry
+Thursday,Single carriageway,Automatic traffic signal,Daylight: Street light present,Fine without high winds,Dry
+Friday,Dual carriageway,Automatic traffic signal,Daylight: Street light present,Fine without high winds,Dry
+Friday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Saturday,Dual carriageway,Automatic traffic signal,Daylight: Street light present,Fine without high winds,Dry
+Thursday,Single carriageway,Automatic traffic signal,Daylight: Street light present,Fine without high winds,Dry
+Tuesday,Dual carriageway,Automatic traffic signal,Daylight: Street light present,Fine without high winds,Dry
+Tuesday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Raining with high winds,Wet/Damp
+Tuesday,Slip road,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Wednesday,Single carriageway,None,Daylight: Street light present,Fine without high winds,Dry
+Friday,Single carriageway,None,Darkness: Street lights present and lit,Fine without high winds,Dry
+Saturday,Single carriageway,Automatic traffic signal,Daylight: Street light present,Other,Wet/Damp
+Thursday,One way street,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Saturday,Single carriageway,Automatic traffic signal,Daylight: Street light present,Other,Wet/Damp
+Saturday,Single carriageway,Giveway or uncontrolled,Darkness: Street lights present and lit,Fine without high winds,Dry
+Saturday,Single carriageway,None,Darkness: Street lights present and lit,Raining without high winds,Wet/Damp
+Friday,Single carriageway,None,Daylight: Street light present,Fine without high winds,Dry
+Friday,Single carriageway,Giveway or uncontrolled,Darkness: Street lights present and lit,Raining without high winds,Wet/Damp
+Wednesday,Single carriageway,Automatic traffic signal,Daylight: Street light present,Fine without high winds,Dry
+Friday,Dual carriageway,Giveway or uncontrolled,Daylight: Street light present,Raining without high winds,Wet/Damp
+Friday,One way street,Giveway or uncontrolled,Daylight: Street light present,Other,Dry
+Monday,Unknown,Automatic traffic signal,Darkness: Street lights present and lit,Raining without high winds,Wet/Damp
+Saturday,Single carriageway,Automatic traffic signal,Daylight: Street light present,Raining without high winds,Wet/Damp
+Saturday,Dual carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Saturday,Dual carriageway,Automatic traffic signal,Daylight: Street light present,Fine without high winds,Dry
+Tuesday,Single carriageway,Automatic traffic signal,Daylight: Street light present,Raining without high winds,Wet/Damp
+Wednesday,Dual carriageway,Automatic traffic signal,Darkness: Street lights present and lit,Fine without high winds,Dry
+Wednesday,One way street,Giveway or uncontrolled,Darkness: Street lights present and lit,Fine with high winds,Wet/Damp
+Wednesday,Dual carriageway,Automatic traffic signal,Darkness: Street lights present and lit,Fine without high winds,Dry
+Thursday,Single carriageway,Automatic traffic signal,Daylight: Street light present,Fine without high winds,Dry
+Friday,Single carriageway,Automatic traffic signal,Daylight: Street light present,Fine without high winds,Dry
+Friday,Single carriageway,None,Daylight: Street light present,Fine without high winds,Dry
+Friday,Roundabout,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Saturday,Single carriageway,Automatic traffic signal,Daylight: Street light present,Fine without high winds,Dry
+Friday,Single carriageway,None,Daylight: Street light present,Fine without high winds,Dry
+Tuesday,One way street,None,Daylight: Street light present,Fine without high winds,Dry
+Wednesday,One way street,Giveway or uncontrolled,Darkness: Street lights present and lit,Fine without high winds,Dry
+Friday,One way street,Giveway or uncontrolled,Daylight: Street light present,Fine with high winds,Wet/Damp
+Friday,Single carriageway,None,Daylight: Street light present,Fine without high winds,Dry
+Friday,Single carriageway,Giveway or uncontrolled,Darkness: Street lights present and lit,Fine without high winds,Dry
+Saturday,Single carriageway,None,Daylight: Street light present,Fine without high winds,Dry
+Monday,Dual carriageway,Automatic traffic signal,Daylight: Street light present,Fine without high winds,Dry
+Wednesday,Dual carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Wednesday,Single carriageway,Automatic traffic signal,Darkness: Street lights present and lit,Other,Dry
+Thursday,Single carriageway,Automatic traffic signal,Darkness: Street lights present and lit,Raining without high winds,Wet/Damp
+Thursday,Dual carriageway,None,Daylight: Street light present,Fine without high winds,Dry
+Wednesday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Sunday,Single carriageway,Automatic traffic signal,Darkness: Street lights present and lit,Fine without high winds,Dry
+Tuesday,Dual carriageway,None,Darkness: Street lights present and lit,Fine without high winds,Dry
+Tuesday,Single carriageway,Automatic traffic signal,Darkness: Street lights present and lit,Fine without high winds,Dry
+Wednesday,Dual carriageway,None,Daylight: Street light present,Fine without high winds,Wet/Damp
+Thursday,Single carriageway,Automatic traffic signal,Daylight: Street light present,Raining without high winds,Wet/Damp
+Friday,Slip road,Automatic traffic signal,Daylight: Street light present,Fine without high winds,Wet/Damp
+Wednesday,Single carriageway,Giveway or uncontrolled,Darkness: Street lights present and lit,Fine without high winds,Dry
+Thursday,Single carriageway,None,Darkness: Street lights present and lit,Fine without high winds,Dry
+Friday,Single carriageway,Automatic traffic signal,Daylight: Street light present,Fine without high winds,Dry
+Friday,Single carriageway,None,Darkness: Street lights present and lit,Fine without high winds,Dry
+Tuesday,Single carriageway,Automatic traffic signal,Daylight: Street light present,Fine without high winds,Dry
+Tuesday,Single carriageway,Automatic traffic signal,Darkness: Street lights present and lit,Fine without high winds,Dry
+Sunday,Single carriageway,Automatic traffic signal,Darkness: Street lights present and lit,Fine without high winds,Dry
+Friday,Single carriageway,None,Daylight: Street light present,Fine without high winds,Wet/Damp
+Saturday,Single carriageway,None,Daylight: Street light present,Other,Dry
+Tuesday,Single carriageway,Automatic traffic signal,Daylight: Street light present,Fine without high winds,Dry
+Wednesday,Single carriageway,Giveway or uncontrolled,Darkness: Street lights present and lit,Fine without high winds,Dry
+Wednesday,Dual carriageway,Giveway or uncontrolled,Darkness: Street lights present and lit,Fine without high winds,Dry
+Wednesday,Dual carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Thursday,Single carriageway,None,Daylight: Street light present,Fine without high winds,Dry
+Friday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Unknown,Dry
+Thursday,Roundabout,Giveway or uncontrolled,Darkness: Street lights present and lit,Fine without high winds,Dry
+Tuesday,Dual carriageway,Automatic traffic signal,Darkness: Street lights present and lit,Fine without high winds,Dry
+Friday,Dual carriageway,Giveway or uncontrolled,Darkness: Street lights present and lit,Fine without high winds,Wet/Damp
+Friday,Single carriageway,Automatic traffic signal,Darkness: Street lights present and lit,Raining without high winds,Wet/Damp
+Saturday,Single carriageway,Automatic traffic signal,Darkness: Street lights present and lit,Fine without high winds,Dry
+Saturday,One way street,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Wet/Damp
+Saturday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Tuesday,Single carriageway,Stop Sign,Daylight: Street light present,Fine without high winds,Dry
+Tuesday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Wednesday,Roundabout,Automatic traffic signal,Daylight: Street light present,Fine without high winds,Dry
+Saturday,Single carriageway,Giveway or uncontrolled,Darkness: Street lights present and lit,Fine without high winds,Wet/Damp
+Thursday,Single carriageway,None,Daylight: Street light present,Fine without high winds,Dry
+Thursday,Single carriageway,Giveway or uncontrolled,Darkness: Street lights present and lit,Fine without high winds,Dry
+Thursday,Dual carriageway,Giveway or uncontrolled,Darkness: Street lights present and lit,Fine without high winds,Wet/Damp
+Monday,Single carriageway,Giveway or uncontrolled,Darkness: Street lights present and lit,Fine without high winds,Dry
+Saturday,Single carriageway,Automatic traffic signal,Darkness: Street lights present and lit,Fine without high winds,Dry
+Saturday,Single carriageway,None,Daylight: Street light present,Fine without high winds,Dry
+Sunday,Single carriageway,Giveway or uncontrolled,Darkness: Street lights present and lit,Fine without high winds,Dry
+Monday,Roundabout,Automatic traffic signal,Darkness: Street lights present and lit,Fine without high winds,Dry
+Thursday,Single carriageway,Giveway or uncontrolled,Darkness: Street lights present and lit,Fine without high winds,Dry
+Sunday,Single carriageway,None,Darkness: Street lights present and lit,Fine without high winds,Dry
+Thursday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Saturday,Single carriageway,Automatic traffic signal,Darkness: Street lights present and lit,Fine without high winds,Dry
+Friday,One way street,Giveway or uncontrolled,Darkness: Street lights present and lit,Fine without high winds,Dry
+Sunday,Single carriageway,Automatic traffic signal,Darkness: Street lights present and lit,Fine without high winds,Dry
+Wednesday,Roundabout,Automatic traffic signal,Daylight: Street light present,Fine without high winds,Dry
+Sunday,Dual carriageway,None,Darkness: Street lights present and lit,Fine without high winds,Dry
+Thursday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Monday,Dual carriageway,None,Darkness: Street lights present and lit,Fine without high winds,Dry
+Monday,One way street,Automatic traffic signal,Daylight: Street light present,Raining without high winds,Wet/Damp
+Thursday,Single carriageway,None,Daylight: Street light present,Fine without high winds,Dry
+Saturday,One way street,Giveway or uncontrolled,Darkness: Street lights present and lit,Fine without high winds,Dry
+Sunday,One way street,Automatic traffic signal,Darkness: Street lights present and lit,Fine without high winds,Dry
+Friday,Single carriageway,None,Darkness: Street lights present and lit,Fine without high winds,Dry
+Sunday,Dual carriageway,None,Darkness: Street lights present and lit,Fine without high winds,Dry
+Friday,Single carriageway,Giveway or uncontrolled,Darkness: Street lights present and lit,Fine without high winds,Dry
+Wednesday,Dual carriageway,Automatic traffic signal,Daylight: Street light present,Fine without high winds,Dry
+Sunday,Single carriageway,None,Daylight: Street light present,Fine without high winds,Dry
+Sunday,One way street,Giveway or uncontrolled,Darkness: Street lights present and lit,Fine without high winds,Dry
+Tuesday,Unknown,Giveway or uncontrolled,Darkness: Street lights present and lit,Fine without high winds,Wet/Damp
+Friday,Dual carriageway,Automatic traffic signal,Darkness: Street lights present and lit,Fine without high winds,Dry
+Thursday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Raining without high winds,Wet/Damp
+Sunday,One way street,Automatic traffic signal,Darkness: Street lights present and lit,Fine without high winds,Wet/Damp
+Wednesday,Single carriageway,Automatic traffic signal,Darkness: Street lights present and lit,Raining without high winds,Wet/Damp
+Tuesday,Dual carriageway,Automatic traffic signal,Darkness: Street lights present and lit,Fine without high winds,Wet/Damp
+Saturday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Friday,Single carriageway,Giveway or uncontrolled,Darkness: Street lights present and lit,Fine without high winds,Dry
+Friday,One way street,Automatic traffic signal,Darkness: Street lights present and lit,Fine without high winds,Dry
+Sunday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Tuesday,Dual carriageway,Giveway or uncontrolled,Darkness: Street lights present and lit,Fine without high winds,Dry
+Wednesday,Single carriageway,Automatic traffic signal,Daylight: Street light present,Raining without high winds,Wet/Damp
+Thursday,Single carriageway,None,Daylight: Street light present,Fine without high winds,Dry
+Sunday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Saturday,One way street,None,Darkness: Street lights present and lit,Fine without high winds,Dry
+Saturday,Dual carriageway,Automatic traffic signal,Darkness: Street lights present and lit,Fine without high winds,Dry
+Tuesday,One way street,Automatic traffic signal,Darkness: Street lights present and lit,Fine without high winds,Dry
+Tuesday,Single carriageway,Automatic traffic signal,Darkness: Street lights present and lit,Raining without high winds,Wet/Damp
+Tuesday,Dual carriageway,Automatic traffic signal,Darkness: Street lights present and lit,Raining without high winds,Wet/Damp
+Monday,Single carriageway,Automatic traffic signal,Darkness: Street lights present and lit,Fine without high winds,Dry
+Tuesday,Dual carriageway,None,Daylight: Street light present,Fine without high winds,Dry
+Thursday,Single carriageway,None,Darkness: Street lights present and lit,Raining without high winds,Wet/Damp
+Thursday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Friday,Dual carriageway,Automatic traffic signal,Daylight: Street light present,Fine without high winds,Dry
+Friday,Single carriageway,Automatic traffic signal,Darkness: Street lights present and lit,Fine without high winds,Dry
+Wednesday,Dual carriageway,Giveway or uncontrolled,Daylight: Street light present,Raining without high winds,Wet/Damp
+Saturday,Single carriageway,None,Darkness: Street lights present and lit,Fine without high winds,Dry
+Monday,Dual carriageway,Automatic traffic signal,Daylight: Street light present,Fine without high winds,Dry
+Tuesday,Single carriageway,None,Darkness: Street lights present and lit,Raining without high winds,Wet/Damp
+Sunday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Friday,Single carriageway,None,Darkness: Street lights present and lit,Fine without high winds,Dry
+Saturday,Dual carriageway,Giveway or uncontrolled,Darkness: Street lights present and lit,Fine without high winds,Dry
+Monday,Single carriageway,None,Darkness: Street lights present and lit,Fine without high winds,Dry
+Monday,Dual carriageway,None,Daylight: Street light present,Fine without high winds,Dry
+Tuesday,Single carriageway,None,Darkness: Street lights present and lit,Fine without high winds,Dry
+Thursday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Thursday,Dual carriageway,Automatic traffic signal,Daylight: Street light present,Fine without high winds,Dry
+Wednesday,Single carriageway,Stop Sign,Darkness: Street lights present and lit,Raining without high winds,Wet/Damp
+Thursday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Wednesday,One way street,Automatic traffic signal,Darkness: Street lights present and lit,Fine without high winds,Dry
+Thursday,Dual carriageway,Automatic traffic signal,Darkness: Street lights present and lit,Fine without high winds,Wet/Damp
+Thursday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Friday,One way street,Automatic traffic signal,Daylight: Street light present,Fine without high winds,Dry
+Friday,One way street,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Friday,Single carriageway,Giveway or uncontrolled,Darkness: Street lights present and lit,Fine without high winds,Wet/Damp
+Friday,Dual carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Friday,One way street,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Wet/Damp
+Tuesday,Dual carriageway,Automatic traffic signal,Darkness: Street lights present and lit,Fine without high winds,Dry
+Wednesday,Single carriageway,None,Daylight: Street light present,Fine without high winds,Dry
+Wednesday,Single carriageway,Automatic traffic signal,Darkness: Street lights present and lit,Fine without high winds,Wet/Damp
+Tuesday,One way street,Automatic traffic signal,Darkness: Street lights present and lit,Fine without high winds,Dry
+Friday,Single carriageway,None,Daylight: Street light present,Fine without high winds,Dry
+Thursday,Single carriageway,Automatic traffic signal,Darkness: Street lighting unknown,Fine without high winds,Dry
+Friday,Single carriageway,Automatic traffic signal,Darkness: Street lights present and lit,Fine without high winds,Wet/Damp
+Friday,Dual carriageway,Giveway or uncontrolled,Darkness: Street lights present and lit,Fine without high winds,Wet/Damp
+Monday,Dual carriageway,None,Daylight: Street light present,Fine without high winds,Wet/Damp
+Thursday,Single carriageway,None,Darkness: Street lights present and lit,Fine without high winds,Dry
+Wednesday,Dual carriageway,Automatic traffic signal,Darkness: Street lights present and lit,Fine without high winds,Wet/Damp
+Tuesday,Single carriageway,None,Darkness: Street lights present and lit,Fine without high winds,Dry
+Wednesday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Friday,Dual carriageway,Giveway or uncontrolled,Darkness: Street lights present and lit,Fine without high winds,Dry
+Friday,Single carriageway,Giveway or uncontrolled,Darkness: Street lights present and lit,Raining without high winds,Wet/Damp
+Saturday,One way street,Automatic traffic signal,Daylight: Street light present,Raining without high winds,Wet/Damp
+Saturday,Single carriageway,Automatic traffic signal,Darkness: Street lights present and lit,Fine without high winds,Dry
+Saturday,Dual carriageway,None,Daylight: Street light present,Fine without high winds,Dry
+Sunday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Monday,One way street,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Tuesday,Single carriageway,None,Daylight: Street light present,Fine without high winds,Dry
+Wednesday,One way street,Giveway or uncontrolled,Daylight: Street light present,Raining without high winds,Wet/Damp
+Wednesday,Single carriageway,Giveway or uncontrolled,Darkness: Street lights present and lit,Raining without high winds,Wet/Damp
+Saturday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Wet/Damp
+Tuesday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Thursday,Single carriageway,None,Darkness: Street lights present and lit,Fine without high winds,Dry
+Wednesday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Wet/Damp
+Thursday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Thursday,Single carriageway,None,Daylight: Street light present,Fine without high winds,Dry
+Thursday,One way street,Automatic traffic signal,Darkness: Street lights present and lit,Fine without high winds,Wet/Damp
+Friday,Dual carriageway,None,Daylight: Street light present,Fine without high winds,Dry
+Tuesday,Roundabout,Giveway or uncontrolled,Darkness: Street lights present and lit,Fine without high winds,Dry
+Friday,Single carriageway,Automatic traffic signal,Daylight: Street light present,Fine without high winds,Dry
+Saturday,One way street,Automatic traffic signal,Daylight: Street light present,Fine without high winds,Dry
+Saturday,Single carriageway,Automatic traffic signal,Daylight: Street light present,Fine without high winds,Dry
+Sunday,Single carriageway,Giveway or uncontrolled,Darkness: Street lights present and lit,Fine without high winds,Dry
+Saturday,Dual carriageway,None,Darkness: Street lights present and lit,Fine without high winds,Wet/Damp
+Sunday,Dual carriageway,Automatic traffic signal,Darkness: Street lights present and lit,Fine without high winds,Dry
+Tuesday,One way street,Automatic traffic signal,Daylight: Street light present,Fine without high winds,Dry
+Tuesday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Sunday,Single carriageway,Giveway or uncontrolled,Darkness: Street lights present and lit,Fine without high winds,Dry
+Wednesday,One way street,Automatic traffic signal,Darkness: Street lights present and lit,Fine without high winds,Dry
+Wednesday,One way street,Automatic traffic signal,Daylight: Street light present,Fine without high winds,Dry
+Saturday,One way street,Giveway or uncontrolled,Darkness: Street lights present and lit,Raining without high winds,Wet/Damp
+Friday,Single carriageway,None,Darkness: Street lights present and lit,Raining without high winds,Wet/Damp
+Friday,Single carriageway,None,Darkness: Street lights present and lit,Fine without high winds,Wet/Damp
+Sunday,Single carriageway,Automatic traffic signal,Darkness: Street lights present and lit,Fine without high winds,Dry
+Friday,Dual carriageway,Automatic traffic signal,Daylight: Street light present,Fine without high winds,Dry
+Friday,Single carriageway,Automatic traffic signal,Daylight: Street light present,Fine without high winds,Dry
+Friday,Dual carriageway,Giveway or uncontrolled,Darkness: Street lights present and lit,Fine without high winds,Dry
+Friday,Single carriageway,Giveway or uncontrolled,Darkness: Street lights present and lit,Raining without high winds,Wet/Damp
+Friday,Single carriageway,Automatic traffic signal,Daylight: Street light present,Fine without high winds,Dry
+Saturday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Raining without high winds,Wet/Damp
+Saturday,Single carriageway,Automatic traffic signal,Daylight: Street light present,Fine without high winds,Dry
+Wednesday,Dual carriageway,None,Daylight: Street light present,Fine without high winds,Dry
+Wednesday,Dual carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Wednesday,Dual carriageway,Automatic traffic signal,Darkness: Street lights present and lit,Fine without high winds,Wet/Damp
+Thursday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Saturday,Single carriageway,None,Daylight: Street light present,Fine without high winds,Dry
+Thursday,One way street,Automatic traffic signal,Darkness: Street lights present and lit,Fine without high winds,Dry
+Thursday,Dual carriageway,None,Daylight: Street light present,Fine without high winds,Dry
+Friday,Single carriageway,Automatic traffic signal,Daylight: Street light present,Fine without high winds,Wet/Damp
+Tuesday,Dual carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Wednesday,Slip road,Automatic traffic signal,Daylight: Street light present,Fine without high winds,Dry
+Friday,Single carriageway,Automatic traffic signal,Darkness: Street lights present and lit,Fine without high winds,Wet/Damp
+Saturday,One way street,Automatic traffic signal,Daylight: Street light present,Raining without high winds,Wet/Damp
+Saturday,Dual carriageway,None,Daylight: Street light present,Raining without high winds,Wet/Damp
+Saturday,Dual carriageway,Giveway or uncontrolled,Darkness: Street lights present and lit,Raining without high winds,Wet/Damp
+Saturday,Dual carriageway,Giveway or uncontrolled,Darkness: Street lights present and lit,Raining without high winds,Wet/Damp
+Sunday,Dual carriageway,Automatic traffic signal,Darkness: Street lights present and lit,Fine without high winds,Dry
+Sunday,One way street,Automatic traffic signal,Daylight: Street light present,Raining without high winds,Wet/Damp
+Monday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Monday,Single carriageway,Automatic traffic signal,Darkness: Street lights present and lit,Raining without high winds,Wet/Damp
+Monday,Single carriageway,Automatic traffic signal,Darkness: Street lights present and lit,Fine without high winds,Dry
+Tuesday,Single carriageway,Giveway or uncontrolled,Darkness: Street lights present and lit,Fine without high winds,Dry
+Monday,Dual carriageway,Automatic traffic signal,Daylight: Street light present,Fine without high winds,Dry
+Sunday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Monday,Single carriageway,None,Daylight: Street light present,Fine without high winds,Dry
+Tuesday,Single carriageway,None,Daylight: Street light present,Fine without high winds,Dry
+Monday,Single carriageway,Automatic traffic signal,Darkness: Street lights present and lit,Fine without high winds,Dry
+Tuesday,Single carriageway,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Monday,Dual carriageway,None,Daylight: Street light present,Fine without high winds,Dry
+Thursday,Single carriageway,None,Daylight: Street light present,Fine without high winds,Dry
+Thursday,Dual carriageway,Automatic traffic signal,Darkness: Street lights present and lit,Fine without high winds,Wet/Damp
+Saturday,Dual carriageway,Giveway or uncontrolled,Darkness: Street lights present and lit,Fine without high winds,Dry
+Saturday,Single carriageway,Giveway or uncontrolled,Darkness: Street lights present and lit,Fine without high winds,Wet/Damp
+Sunday,Single carriageway,None,Darkness: Street lights present and lit,Fine without high winds,Dry
+Tuesday,One way street,None,Darkness: Street lights present and lit,Fine without high winds,Wet/Damp
+Wednesday,One way street,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry
+Wednesday,Dual carriageway,None,Daylight: Street light present,Fine without high winds,Dry
+Saturday,Single carriageway,Automatic traffic signal,Darkness: Street lights present and lit,Fine without high winds,Dry
+Sunday,One way street,Automatic traffic signal,Daylight: Street light present,Fine without high winds,Dry
